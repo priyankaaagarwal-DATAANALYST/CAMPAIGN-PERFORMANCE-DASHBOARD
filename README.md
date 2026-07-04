@@ -49,6 +49,7 @@ An executive marketing intelligence dashboard designed to maximize advertising u
 ## 🖼️ Screenshots & Demos
 
 ### Main Dashboard Interface
-![Dashboard Preview](https://github.com/priyankaaagarwal-DATAANALYST/PhonePe-PowerBI-Dashboard/blob/main/Dashboard%20Overview.png)
+![Dashboard Preview](https://github.com/priyankaaagarwal-DATAANALYST/CAMPAIGN-PERFORMANCE-DASHBOARD/blob/main/Campaign%20Performance%20main.png)
+
 
 ---
